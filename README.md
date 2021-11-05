@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @azshaari
+- 👀 I’m interested in flight simulation, astrophysics, politics and social/demographic studies.
+- 🌱 I’m currently learning Python, as I really need better tools for Analytics development
+- 💞️ I’m looking to collaborate with people working with Business Intelligence and Analytics.
+- 📫 Reach me on Twitter at @ImAzraa
