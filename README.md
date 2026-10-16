@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @azshaari
-- 👀 I’m interested in flight simulation, astrophysics, politics and social/demographic studies.
-- 🌱 I’m currently learning Python, as I really need better tools for Analytics development
-- 💞️ I’m looking to collaborate with people working with Business Intelligence and Analytics.
-- 📫 Reach me on Twitter at @ImAzraa
+- 👀 I’m interested in flight simulation, history, astrophysics, and ... cooking!
+- Data Scientist, primarily working in data warehouse development and recommendation engines using Snowflake-Spark
+- Moonlighting as a data culture evangelist. Pretty good at communicating on data and team/company enablement
